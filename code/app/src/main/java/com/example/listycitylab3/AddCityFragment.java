@@ -27,7 +27,7 @@ public class AddCityFragment extends DialogFragment {
     }
 
     public City editCity;
-    //public updateCity UpCity;
+    
 
     public AddCityFragment(){
 
